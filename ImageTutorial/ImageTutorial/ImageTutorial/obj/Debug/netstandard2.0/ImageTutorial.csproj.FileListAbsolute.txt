@@ -1,0 +1,14 @@
+C:\Xamarin\Excercise 3\ImageTutorial\ImageTutorial\ImageTutorial\bin\Debug\netstandard2.0\ImageTutorial.deps.json
+C:\Xamarin\Excercise 3\ImageTutorial\ImageTutorial\ImageTutorial\bin\Debug\netstandard2.0\ImageTutorial.dll
+C:\Xamarin\Excercise 3\ImageTutorial\ImageTutorial\ImageTutorial\bin\Debug\netstandard2.0\ref\ImageTutorial.dll
+C:\Xamarin\Excercise 3\ImageTutorial\ImageTutorial\ImageTutorial\bin\Debug\netstandard2.0\ImageTutorial.pdb
+C:\Xamarin\Excercise 3\ImageTutorial\ImageTutorial\ImageTutorial\obj\Debug\netstandard2.0\ImageTutorial.csprojAssemblyReference.cache
+C:\Xamarin\Excercise 3\ImageTutorial\ImageTutorial\ImageTutorial\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Xamarin\Excercise 3\ImageTutorial\ImageTutorial\ImageTutorial\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Xamarin\Excercise 3\ImageTutorial\ImageTutorial\ImageTutorial\obj\Debug\netstandard2.0\ImageTutorial.AssemblyInfoInputs.cache
+C:\Xamarin\Excercise 3\ImageTutorial\ImageTutorial\ImageTutorial\obj\Debug\netstandard2.0\ImageTutorial.AssemblyInfo.cs
+C:\Xamarin\Excercise 3\ImageTutorial\ImageTutorial\ImageTutorial\obj\Debug\netstandard2.0\ImageTutorial.csproj.CoreCompileInputs.cache
+C:\Xamarin\Excercise 3\ImageTutorial\ImageTutorial\ImageTutorial\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Xamarin\Excercise 3\ImageTutorial\ImageTutorial\ImageTutorial\obj\Debug\netstandard2.0\ImageTutorial.dll
+C:\Xamarin\Excercise 3\ImageTutorial\ImageTutorial\ImageTutorial\obj\Debug\netstandard2.0\ref\ImageTutorial.dll
+C:\Xamarin\Excercise 3\ImageTutorial\ImageTutorial\ImageTutorial\obj\Debug\netstandard2.0\ImageTutorial.pdb
