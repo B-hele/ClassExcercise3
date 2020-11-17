@@ -1,0 +1,14 @@
+C:\Xamarin\Excercise 3\StackLayoutTutorial\StackLayoutTutorial\StackLayoutTutorial\bin\Debug\netstandard2.0\StackLayoutTutorial.deps.json
+C:\Xamarin\Excercise 3\StackLayoutTutorial\StackLayoutTutorial\StackLayoutTutorial\bin\Debug\netstandard2.0\StackLayoutTutorial.dll
+C:\Xamarin\Excercise 3\StackLayoutTutorial\StackLayoutTutorial\StackLayoutTutorial\bin\Debug\netstandard2.0\ref\StackLayoutTutorial.dll
+C:\Xamarin\Excercise 3\StackLayoutTutorial\StackLayoutTutorial\StackLayoutTutorial\bin\Debug\netstandard2.0\StackLayoutTutorial.pdb
+C:\Xamarin\Excercise 3\StackLayoutTutorial\StackLayoutTutorial\StackLayoutTutorial\obj\Debug\netstandard2.0\StackLayoutTutorial.csprojAssemblyReference.cache
+C:\Xamarin\Excercise 3\StackLayoutTutorial\StackLayoutTutorial\StackLayoutTutorial\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Xamarin\Excercise 3\StackLayoutTutorial\StackLayoutTutorial\StackLayoutTutorial\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Xamarin\Excercise 3\StackLayoutTutorial\StackLayoutTutorial\StackLayoutTutorial\obj\Debug\netstandard2.0\StackLayoutTutorial.AssemblyInfoInputs.cache
+C:\Xamarin\Excercise 3\StackLayoutTutorial\StackLayoutTutorial\StackLayoutTutorial\obj\Debug\netstandard2.0\StackLayoutTutorial.AssemblyInfo.cs
+C:\Xamarin\Excercise 3\StackLayoutTutorial\StackLayoutTutorial\StackLayoutTutorial\obj\Debug\netstandard2.0\StackLayoutTutorial.csproj.CoreCompileInputs.cache
+C:\Xamarin\Excercise 3\StackLayoutTutorial\StackLayoutTutorial\StackLayoutTutorial\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Xamarin\Excercise 3\StackLayoutTutorial\StackLayoutTutorial\StackLayoutTutorial\obj\Debug\netstandard2.0\StackLayoutTutorial.dll
+C:\Xamarin\Excercise 3\StackLayoutTutorial\StackLayoutTutorial\StackLayoutTutorial\obj\Debug\netstandard2.0\ref\StackLayoutTutorial.dll
+C:\Xamarin\Excercise 3\StackLayoutTutorial\StackLayoutTutorial\StackLayoutTutorial\obj\Debug\netstandard2.0\StackLayoutTutorial.pdb
