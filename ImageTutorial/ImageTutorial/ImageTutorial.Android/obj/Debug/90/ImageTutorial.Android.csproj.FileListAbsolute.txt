@@ -490,3 +490,4 @@ C:\Xamarin\Excercise 3\ImageTutorial\ImageTutorial\ImageTutorial.Android\obj\Deb
 C:\Xamarin\Excercise 3\ImageTutorial\ImageTutorial\ImageTutorial.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 C:\Xamarin\Excercise 3\ImageTutorial\ImageTutorial\ImageTutorial.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Xamarin\Excercise 3\ImageTutorial\ImageTutorial\ImageTutorial.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Xamarin\Excercise 3\ImageTutorial\ImageTutorial\ImageTutorial.Android\obj\Debug\90\res\drawable\xamarinlogo.png
