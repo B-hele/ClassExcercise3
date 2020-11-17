@@ -2,7 +2,6 @@ C:\Xamarin\Excercise 3\ListViewTutorial\ListViewTutorial\ListViewTutorial\bin\De
 C:\Xamarin\Excercise 3\ListViewTutorial\ListViewTutorial\ListViewTutorial\bin\Debug\netstandard2.0\ListViewTutorial.dll
 C:\Xamarin\Excercise 3\ListViewTutorial\ListViewTutorial\ListViewTutorial\bin\Debug\netstandard2.0\ref\ListViewTutorial.dll
 C:\Xamarin\Excercise 3\ListViewTutorial\ListViewTutorial\ListViewTutorial\bin\Debug\netstandard2.0\ListViewTutorial.pdb
-C:\Xamarin\Excercise 3\ListViewTutorial\ListViewTutorial\ListViewTutorial\obj\Debug\netstandard2.0\ListViewTutorial.csprojAssemblyReference.cache
 C:\Xamarin\Excercise 3\ListViewTutorial\ListViewTutorial\ListViewTutorial\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\Xamarin\Excercise 3\ListViewTutorial\ListViewTutorial\ListViewTutorial\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
 C:\Xamarin\Excercise 3\ListViewTutorial\ListViewTutorial\ListViewTutorial\obj\Debug\netstandard2.0\ListViewTutorial.AssemblyInfoInputs.cache

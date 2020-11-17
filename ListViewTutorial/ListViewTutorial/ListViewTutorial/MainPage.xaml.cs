@@ -133,5 +133,14 @@ namespace ListViewTutorial
 
             BindingContext = this;
         }
+        void OnListViewItemSelected(object sender, SelectedItemChangedEventArgs e)
+{
+    Monkey selectedItem = e.SelectedItem as Monkey;
+}
+
+void OnListViewItemTapped(object sender, ItemTappedEventArgs e)
+{
+    Monkey tappedItem = e.Item as Monkey;
+}
     }
 }
