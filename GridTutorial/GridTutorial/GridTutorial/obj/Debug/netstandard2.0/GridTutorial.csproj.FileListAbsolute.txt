@@ -1,0 +1,14 @@
+C:\Xamarin\Excercise 3\GridTutorial\GridTutorial\GridTutorial\bin\Debug\netstandard2.0\GridTutorial.deps.json
+C:\Xamarin\Excercise 3\GridTutorial\GridTutorial\GridTutorial\bin\Debug\netstandard2.0\GridTutorial.dll
+C:\Xamarin\Excercise 3\GridTutorial\GridTutorial\GridTutorial\bin\Debug\netstandard2.0\ref\GridTutorial.dll
+C:\Xamarin\Excercise 3\GridTutorial\GridTutorial\GridTutorial\bin\Debug\netstandard2.0\GridTutorial.pdb
+C:\Xamarin\Excercise 3\GridTutorial\GridTutorial\GridTutorial\obj\Debug\netstandard2.0\GridTutorial.csprojAssemblyReference.cache
+C:\Xamarin\Excercise 3\GridTutorial\GridTutorial\GridTutorial\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Xamarin\Excercise 3\GridTutorial\GridTutorial\GridTutorial\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Xamarin\Excercise 3\GridTutorial\GridTutorial\GridTutorial\obj\Debug\netstandard2.0\GridTutorial.AssemblyInfoInputs.cache
+C:\Xamarin\Excercise 3\GridTutorial\GridTutorial\GridTutorial\obj\Debug\netstandard2.0\GridTutorial.AssemblyInfo.cs
+C:\Xamarin\Excercise 3\GridTutorial\GridTutorial\GridTutorial\obj\Debug\netstandard2.0\GridTutorial.csproj.CoreCompileInputs.cache
+C:\Xamarin\Excercise 3\GridTutorial\GridTutorial\GridTutorial\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Xamarin\Excercise 3\GridTutorial\GridTutorial\GridTutorial\obj\Debug\netstandard2.0\GridTutorial.dll
+C:\Xamarin\Excercise 3\GridTutorial\GridTutorial\GridTutorial\obj\Debug\netstandard2.0\ref\GridTutorial.dll
+C:\Xamarin\Excercise 3\GridTutorial\GridTutorial\GridTutorial\obj\Debug\netstandard2.0\GridTutorial.pdb
