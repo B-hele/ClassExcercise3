@@ -12,3 +12,4 @@ C:\Xamarin\Excercise 3\StackLayoutTutorial\StackLayoutTutorial\StackLayoutTutori
 C:\Xamarin\Excercise 3\StackLayoutTutorial\StackLayoutTutorial\StackLayoutTutorial\obj\Debug\netstandard2.0\StackLayoutTutorial.dll
 C:\Xamarin\Excercise 3\StackLayoutTutorial\StackLayoutTutorial\StackLayoutTutorial\obj\Debug\netstandard2.0\ref\StackLayoutTutorial.dll
 C:\Xamarin\Excercise 3\StackLayoutTutorial\StackLayoutTutorial\StackLayoutTutorial\obj\Debug\netstandard2.0\StackLayoutTutorial.pdb
+C:\Xamarin\Excercise 3\StackLayoutTutorial\StackLayoutTutorial\StackLayoutTutorial\obj\Debug\netstandard2.0\Page1.xaml.g.cs
